@@ -1,0 +1,5 @@
+﻿  SolarSystem.cpp
+D:\图形学\图形学\15_solar_system\SolarSystem\SolarSystem\shader.h(56,34): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“SolarSystem.cpp”)
+  
+  SolarSystem.vcxproj -> D:\图形学\图形学\15_solar_system\SolarSystem\x64\Debug\SolarSystem.exe
